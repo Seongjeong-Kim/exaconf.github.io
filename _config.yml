@@ -2,17 +2,17 @@
 permalink:        pretty
 
 # Setup
-title:            FPSAC / SFCA
+title:            The first online knot theory congress
 tagline:          'Formal Power Series and Algebraic Combinatorics'
-description:      'International conference series on Formal Power Series and Algebraic Combinatorics'
-url:              http://fpsac.org
+description:      'International conference on knot theory'
+url:              #http://fpsac.org
 baseurl:          ''
 
 # About/contact
 author:
-  name:           'The FPSAC executive committee'
-  url:            http://fpsac.org/
-  email:          executive-office-fpsac@services.cnrs.fr
+  name:           #'The FPSAC executive committee'
+  url:            #http://fpsac.org/
+  email:          #executive-office-fpsac@services.cnrs.fr
 
 # paginate:         5
 # paginate_path:       "/news/page:num/"
